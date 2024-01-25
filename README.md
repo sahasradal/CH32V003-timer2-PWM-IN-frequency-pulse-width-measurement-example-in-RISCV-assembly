@@ -7,3 +7,4 @@ burned with WCH utility and elink
 PWM_IN_ver2 added which can measure fractional part. Displays float values of frequency and duty cycle
 modified code to suppress leading zeros and left align the results to the terminal screen. removes leading space in results.
 
+Get bronzebeard RISCV assembler from https://github.com/theandrew168/bronzebeard#setup
